@@ -51,5 +51,6 @@
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 
-
+(set-input-method "russian-computer")
+(toggle-input-method)
 
